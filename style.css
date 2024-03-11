@@ -91,3 +91,17 @@ h4 {
 .section .fa-lock{
     top:32px;
 }
+
+
+/* media-query */
+@media screen and (max-width:800px) {
+    .small-box{
+        width:60%;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .small-box {
+        width:90%;
+    }
+}
