@@ -22,12 +22,11 @@ body {
 }
 
 .small-box {
-    border: 2px solid black;
+/*     border: 2px solid black; */
     padding: 20px 20px;
     color: white;
     background-color: #000000;
     height: fit-content;
-    width: 20%;
     border-radius: 4px;
     justify-content: center;
     align-items: center;
